@@ -1,0 +1,208 @@
+\\SERDOMCLOUDBOSC\UnidadF\Dam2_1314_Trab\Beatriz\PapeleriaMalva\PapeleriaMalva\bin\Debug\PapeleriaMalva.exe
+\\SERDOMCLOUDBOSC\UnidadF\Dam2_1314_Trab\Beatriz\PapeleriaMalva\PapeleriaMalva\bin\Debug\PapeleriaMalva.pdb
+\\SERDOMCLOUDBOSC\UnidadF\Dam2_1314_Trab\Beatriz\PapeleriaMalva\PapeleriaMalva\bin\Debug\PapeleriaMalva.xml
+\\SERDOMCLOUDBOSC\UnidadF\Dam2_1314_Trab\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\ResolveAssemblyReference.cache
+\\SERDOMCLOUDBOSC\UnidadF\Dam2_1314_Trab\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Clientes.resources
+\\SERDOMCLOUDBOSC\UnidadF\Dam2_1314_Trab\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Resources.resources
+\\SERDOMCLOUDBOSC\UnidadF\Dam2_1314_Trab\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Principal.resources
+\\SERDOMCLOUDBOSC\UnidadF\Dam2_1314_Trab\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\GenerateResource.read.1.tlog
+\\SERDOMCLOUDBOSC\UnidadF\Dam2_1314_Trab\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\GenerateResource.write.1.tlog
+\\SERDOMCLOUDBOSC\UnidadF\Dam2_1314_Trab\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.exe
+\\SERDOMCLOUDBOSC\UnidadF\Dam2_1314_Trab\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.xml
+\\SERDOMCLOUDBOSC\UnidadF\Dam2_1314_Trab\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.pdb
+Z:\Dam2_1314_Trab\Beatriz\PapeleriaMalva\PapeleriaMalva\bin\Debug\PapeleriaMalva.exe
+Z:\Dam2_1314_Trab\Beatriz\PapeleriaMalva\PapeleriaMalva\bin\Debug\PapeleriaMalva.pdb
+Z:\Dam2_1314_Trab\Beatriz\PapeleriaMalva\PapeleriaMalva\bin\Debug\PapeleriaMalva.xml
+Z:\Dam2_1314_Trab\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Dam2_1314_Trab\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Clientes.resources
+Z:\Dam2_1314_Trab\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Resources.resources
+Z:\Dam2_1314_Trab\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Principal.resources
+Z:\Dam2_1314_Trab\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\Dam2_1314_Trab\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\Dam2_1314_Trab\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.exe
+Z:\Dam2_1314_Trab\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.xml
+Z:\Dam2_1314_Trab\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.pdb
+\\SERDOMCLOUDBOSC\UnidadF\Dam2_1314_Trab\Beatriz\PapeleriaMalva\PapeleriaMalva\bin\Debug\PapeleriaMalva.exe.config
+\\SERDOMCLOUDBOSC\UnidadF\Dam2_1314_Trab\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Informes.resources
+\\SERDOMCLOUDBOSC\UnidadF\Dam2_1314_Trab\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Proveedores.resources
+\\SERDOMCLOUDBOSC\UnidadF\Dam2_1314_Trab\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Visor.resources
+\\SERDOMCLOUDBOSC\UnidadF\Dam2_1314_Trab\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Articulos.resources
+Z:\Dam2_1314_Trab\Beatriz\PapeleriaMalva\PapeleriaMalva\bin\Debug\PapeleriaMalva.exe.config
+Z:\Dam2_1314_Trab\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\Interop.MSExchangeLib.dll
+Z:\Dam2_1314_Trab\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.vbproj.ResolveComReference.cache
+\\SERDOMCLOUDBOSC\UnidadF\Dam2_1314_Trab\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\Interop.MSExchangeLib.dll
+\\SERDOMCLOUDBOSC\UnidadF\Dam2_1314_Trab\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.vbproj.ResolveComReference.cache
+\\SERDOMCLOUDBOSC\UnidadF\Dam2_1314_Trab\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Empresa.resources
+\\SERDOMCLOUDBOSC\UnidadF\Dam2_1314_Trab\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.listados.resources
+\\SERDOMCLOUDBOSC\UnidadF\Dam2_1314_Trab\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.utilidades.resources
+Z:\Dam2_1314_Trab\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Articulos.resources
+Z:\Dam2_1314_Trab\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Empresa.resources
+Z:\Dam2_1314_Trab\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Informes.resources
+Z:\Dam2_1314_Trab\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.listados.resources
+Z:\Dam2_1314_Trab\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Proveedores.resources
+Z:\Dam2_1314_Trab\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.utilidades.resources
+Z:\Dam2_1314_Trab\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Visor.resources
+J:\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\bin\Debug\PapeleriaMalva.exe.config
+J:\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\Interop.MSExchangeLib.dll
+J:\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.vbproj.ResolveComReference.cache
+J:\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.exe
+J:\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.xml
+J:\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.pdb
+C:\Users\BEA\Desktop\otra version\PapeleriaMalva\PapeleriaMalva\bin\Debug\PapeleriaMalva.exe.config
+C:\Users\BEA\Desktop\otra version\PapeleriaMalva\PapeleriaMalva\bin\Debug\PapeleriaMalva.exe
+C:\Users\BEA\Desktop\otra version\PapeleriaMalva\PapeleriaMalva\bin\Debug\PapeleriaMalva.pdb
+C:\Users\BEA\Desktop\otra version\PapeleriaMalva\PapeleriaMalva\bin\Debug\PapeleriaMalva.xml
+C:\Users\BEA\Desktop\otra version\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\BEA\Desktop\otra version\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\Interop.MSExchangeLib.dll
+C:\Users\BEA\Desktop\otra version\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.vbproj.ResolveComReference.cache
+C:\Users\BEA\Desktop\otra version\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Articulos.resources
+C:\Users\BEA\Desktop\otra version\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Clientes.resources
+C:\Users\BEA\Desktop\otra version\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Compras.resources
+C:\Users\BEA\Desktop\otra version\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.ConfiguracionEmpresa.resources
+C:\Users\BEA\Desktop\otra version\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Devoluciones.resources
+C:\Users\BEA\Desktop\otra version\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Libros.resources
+C:\Users\BEA\Desktop\otra version\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.listados.resources
+C:\Users\BEA\Desktop\otra version\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Resources.resources
+C:\Users\BEA\Desktop\otra version\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Principal.resources
+C:\Users\BEA\Desktop\otra version\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Proveedores.resources
+C:\Users\BEA\Desktop\otra version\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Reservas.resources
+C:\Users\BEA\Desktop\otra version\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.utilidades.resources
+C:\Users\BEA\Desktop\otra version\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Ventas.resources
+C:\Users\BEA\Desktop\otra version\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Visor.resources
+C:\Users\BEA\Desktop\otra version\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\BEA\Desktop\otra version\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\BEA\Desktop\otra version\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.exe
+C:\Users\BEA\Desktop\otra version\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.xml
+C:\Users\BEA\Desktop\otra version\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.pdb
+G:\otra version\PapeleriaMalva\PapeleriaMalva\bin\Debug\PapeleriaMalva.exe.config
+G:\otra version\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\Interop.MSExchangeLib.dll
+G:\otra version\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.vbproj.ResolveComReference.cache
+G:\otra version\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.exe
+G:\otra version\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.xml
+G:\otra version\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.pdb
+G:\otra version\PapeleriaMalva\PapeleriaMalva\bin\Debug\PapeleriaMalva.exe
+G:\otra version\PapeleriaMalva\PapeleriaMalva\bin\Debug\PapeleriaMalva.pdb
+G:\otra version\PapeleriaMalva\PapeleriaMalva\bin\Debug\PapeleriaMalva.xml
+G:\otra version\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\otra version\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Articulos.resources
+G:\otra version\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Clientes.resources
+G:\otra version\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Compras.resources
+G:\otra version\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.ConfiguracionEmpresa.resources
+G:\otra version\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Devoluciones.resources
+G:\otra version\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Libros.resources
+G:\otra version\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.listados.resources
+G:\otra version\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Resources.resources
+G:\otra version\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Principal.resources
+G:\otra version\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Proveedores.resources
+G:\otra version\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Reservas.resources
+G:\otra version\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.utilidades.resources
+G:\otra version\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Ventas.resources
+G:\otra version\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Visor.resources
+G:\otra version\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\otra version\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\bin\Debug\PapeleriaMalva.exe.config
+G:\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\Interop.MSExchangeLib.dll
+G:\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.vbproj.ResolveComReference.cache
+G:\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.exe
+G:\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.xml
+G:\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.pdb
+G:\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\bin\Debug\PapeleriaMalva.exe
+G:\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\bin\Debug\PapeleriaMalva.pdb
+G:\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\bin\Debug\PapeleriaMalva.xml
+G:\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Articulos.resources
+G:\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Clientes.resources
+G:\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Compras.resources
+G:\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.ConfiguracionEmpresa.resources
+G:\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Devoluciones.resources
+G:\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Libros.resources
+G:\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.listados.resources
+G:\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Resources.resources
+G:\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Principal.resources
+G:\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Proveedores.resources
+G:\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Reservas.resources
+G:\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.utilidades.resources
+G:\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Ventas.resources
+G:\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Visor.resources
+G:\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.vbprojResolveAssemblyReference.cache
+G:\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Productos.resources
+G:\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.vbproj.GenerateResource.Cache
+J:\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\bin\Debug\PapeleriaMalva.exe
+J:\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Articulos.resources
+J:\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Clientes.resources
+J:\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Compras.resources
+J:\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.ConfiguracionEmpresa.resources
+J:\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Devoluciones.resources
+J:\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Libros.resources
+J:\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.listados.resources
+J:\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Resources.resources
+J:\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Principal.resources
+J:\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Productos.resources
+J:\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Proveedores.resources
+J:\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Reservas.resources
+J:\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.utilidades.resources
+J:\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Ventas.resources
+J:\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Visor.resources
+J:\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\BEA\Desktop\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\bin\Debug\PapeleriaMalva.exe.config
+C:\Users\BEA\Desktop\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\Interop.MSExchangeLib.dll
+C:\Users\BEA\Desktop\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.vbproj.ResolveComReference.cache
+C:\Users\BEA\Desktop\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.exe
+C:\Users\BEA\Desktop\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.xml
+C:\Users\BEA\Desktop\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.pdb
+C:\Users\BEA\Desktop\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\bin\Debug\PapeleriaMalva.exe
+C:\Users\BEA\Desktop\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\bin\Debug\PapeleriaMalva.pdb
+C:\Users\BEA\Desktop\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\bin\Debug\PapeleriaMalva.xml
+C:\Users\BEA\Desktop\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\BEA\Desktop\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Articulos.resources
+C:\Users\BEA\Desktop\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Clientes.resources
+C:\Users\BEA\Desktop\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Compras.resources
+C:\Users\BEA\Desktop\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.ConfiguracionEmpresa.resources
+C:\Users\BEA\Desktop\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Devoluciones.resources
+C:\Users\BEA\Desktop\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Libros.resources
+C:\Users\BEA\Desktop\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.listados.resources
+C:\Users\BEA\Desktop\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Resources.resources
+C:\Users\BEA\Desktop\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Principal.resources
+C:\Users\BEA\Desktop\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Productos.resources
+C:\Users\BEA\Desktop\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Proveedores.resources
+C:\Users\BEA\Desktop\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Reservas.resources
+C:\Users\BEA\Desktop\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.utilidades.resources
+C:\Users\BEA\Desktop\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Ventas.resources
+C:\Users\BEA\Desktop\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Visor.resources
+C:\Users\BEA\Desktop\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\BEA\Desktop\ProyectoImprenta\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Dam2_1314\Beatriz\PapeleriaMalva\PapeleriaMalva\bin\Debug\PapeleriaMalva.exe.config
+C:\Dam2_1314\Beatriz\PapeleriaMalva\PapeleriaMalva\bin\Debug\PapeleriaMalva.exe
+C:\Dam2_1314\Beatriz\PapeleriaMalva\PapeleriaMalva\bin\Debug\PapeleriaMalva.pdb
+C:\Dam2_1314\Beatriz\PapeleriaMalva\PapeleriaMalva\bin\Debug\PapeleriaMalva.xml
+C:\Dam2_1314\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\Interop.MSExchangeLib.dll
+C:\Dam2_1314\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.vbproj.ResolveComReference.cache
+C:\Dam2_1314\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Articulos.resources
+C:\Dam2_1314\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Clientes.resources
+C:\Dam2_1314\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Compras.resources
+C:\Dam2_1314\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.ConfiguracionEmpresa.resources
+C:\Dam2_1314\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Devoluciones.resources
+C:\Dam2_1314\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Libros.resources
+C:\Dam2_1314\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Resources.resources
+C:\Dam2_1314\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Principal.resources
+C:\Dam2_1314\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Productos.resources
+C:\Dam2_1314\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Proveedores.resources
+C:\Dam2_1314\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Reservas.resources
+C:\Dam2_1314\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.utilidades.resources
+C:\Dam2_1314\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Ventas.resources
+C:\Dam2_1314\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Visor.resources
+C:\Dam2_1314\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.exe
+C:\Dam2_1314\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.xml
+C:\Dam2_1314\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.pdb
+C:\Dam2_1314\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Busquedas.resources
+C:\Dam2_1314\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.BusquedasCompras.resources
+C:\Dam2_1314\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.ProductosLibros.resources
+C:\Dam2_1314\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.BusquedasReservas.resources
+C:\Dam2_1314\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.FacturarCaja.resources
+C:\DAM2_1314\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.VerReservas.resources
+C:\Dam2_1314\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.Acercade.resources
+C:\Dam2_1314\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.ImprimirFacturas.resources
+C:\Dam2_1314\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.MostrarLibro.resources
+C:\Dam2_1314\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.vbprojResolveAssemblyReference.cache
+C:\Dam2_1314\Beatriz\PapeleriaMalva\PapeleriaMalva\obj\x86\Debug\PapeleriaMalva.vbproj.GenerateResource.Cache
